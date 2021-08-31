@@ -1,0 +1,12 @@
+#all of the libraries or frameworks you need to know for Web development in python
+
+1. django
+2. flask
+3. bottle
+4. cherrypy
+5. pyramid
+6. web2py
+7. turbogears
+8. cubicweb
+9. dash
+10. falcon
