@@ -1,0 +1,15 @@
+#all of the libraries or frameworks you need to know for machine learning
+
+1. numpy
+2. pandas
+3. pytorch
+4. keras
+5. theano
+6.tensorflow
+7. scikit-learn
+8. matplotlib
+9. scipy
+10.seaborn
+
+
+#you should at least know about 3-7 of these if you want to be succsessful in machine learning
