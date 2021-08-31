@@ -1,0 +1,9 @@
+#all of the libraries or frameworks you need to know for game development
+
+1. pygame
+2. pyglet
+3. pyopenGl
+4. arcade
+5. panda3D
+
+#you should at least know about 3-5 of these if you want to be succsessful in game development
